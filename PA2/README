@@ -1,0 +1,2 @@
+in /b08901169_pa2/, directly use make to complie
+in /bin/mps use ./mps <input> <output> to run the program
