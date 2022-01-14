@@ -1,0 +1,6 @@
+PA3 B08901169
+to compile:
+	make
+
+to execute:
+	./bin/cb ./inputs/<input file name> ./outputs/<output file name>
